@@ -4,7 +4,7 @@ This convolution neural network is made to distinguish the given image into a ho
 
 ## The model summary:
 
-1[](Model%20summary.JPG)
+![](Model%20summary.JPG)
 
 ## The newly computer generated data used for training:
 
